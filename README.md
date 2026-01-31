@@ -14,7 +14,7 @@
 - JavaScript
 - TypeScript
 - Go
-- PHP
+- Node
 
 ** 📦 Frameworks & Bibliotecas:**
 - ReactJS 
