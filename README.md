@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Estácio Renan - Desenvolvedor Front-end 
+# 👨🏽‍💻 Estácio Renan - Desenvolvedor Full Stack 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estaciorenanrodrigues&show_icons=true&theme=transparent)
 
@@ -20,11 +20,12 @@
 - ReactJS 
 - NextJS 
 - VueJS 
-- Angular 
+- Angular
+- Node
 - Nest
 - ExpressJS
+- GO
 - Gin
-- Laravel
 
 ## 🤓 Especialização
 
@@ -32,7 +33,8 @@ Desenvolvedor namorando com Backend usando Node, Go, PHP e Front-end apaixonado 
 
 ## 🛠️ Stack Principal
 
-- **Frontend:** React, Next.js, Vue.js, Angular
+- **Frontend:** React, Next.js, Vue.js e Angular
+- **Backend:** GO, Gin, Node, Express e Nest
 - **Linguagens:** JavaScript, TypeScript, Go e PHP
 - **Estilização:** CSS3, Sass, Tailwind.
 
