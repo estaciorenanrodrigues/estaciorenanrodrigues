@@ -29,7 +29,7 @@
 
 ## 🤓 Especialização
 
-Desenvolvedor namorando com Backend usando Node, Go, PHP e Front-end apaixonado por criar interfaces modernas e responsivas. Especializado em JavaScript e TypeScript, com experiência sólida em frameworks e biblioteca modernos como React, VueJS e Angular, .
+Desenvolvedor namorando com Backend usando Node, Go, no Front-end apaixonado por criar interfaces modernas e responsivas. Especializado em JavaScript e TypeScript, com experiência sólida em frameworks e biblioteca modernos como React, VueJS e Angular, .
 
 ## 🛠️ Stack Principal
 
