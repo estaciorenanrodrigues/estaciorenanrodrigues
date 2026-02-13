@@ -4,9 +4,9 @@
 
 ## 🧑🏽‍🎓 Formação
 - Graduação em Analise e desenvolvimento de Sistemas
-- Pós Engenharia de software
+- Pós Engenharia de Software
 - Pós Desenvolvimento de Sistemas
-- Pós Gestão em tecnologias
+- Pós Gestão em Tecnologias
 
 ## 🤖 Tecnologias & Habilidades
 
