@@ -14,9 +14,9 @@
 - JavaScript
 - TypeScript
 - Go
-- Node
+- PHP
 
-** 📦 Frameworks & Bibliotecas:**
+** 📦 Frameworks, Plataformas & Bibliotecas:**
 - ReactJS 
 - NextJS 
 - VueJS 
@@ -36,18 +36,6 @@ Desenvolvedor namorando com Backend usando Node, Go, no Front-end apaixonado por
 - **Frontend:** React, Next.js, Vue.js e Angular
 - **Backend:** GO, Gin, Node, Express e Nest
 - **Linguagens:** JavaScript, TypeScript, Go e PHP
-- **Estilização:** CSS3, Sass, Tailwind.
-
-## 📈 Foco Atual
-
-Desenvolvendo dashboards interativos e aplicações web modernas com foco em performance, acessibilidade e experiência do usuário.
-
-## 🎨 Projetos Destacados
-
-- Dashboard React com visualizações de dados
-- Aplicações SPA com React e TypeScript
-- Componentes reutilizáveis e sistemas de design
-- Integração com APIs REST e GraphQL
 
 ## 🔗 Contato
 
