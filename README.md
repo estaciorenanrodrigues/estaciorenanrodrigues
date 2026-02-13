@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Estácio Renan - Desenvolvedor Full Stack 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estaciorenanrodrigues&show_icons=true&theme=transparent)
+
 
 ## 🧑🏽‍🎓 Formação
 - Graduação em Analise e desenvolvimento de Sistemas
